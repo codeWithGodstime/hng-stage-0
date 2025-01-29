@@ -18,7 +18,7 @@ def read_root():
     return {
         "email": "youngestkid01@gmail.com",
         "current_datetime": datetime.now().isoformat() + "Z",
-        "github_url": "https://github.com/yourusername/your-repo"
+        "github_url": "https://github.com/codeWithGodstime/hng-stage-0"
     }
 
 if __name__ == "__main__":

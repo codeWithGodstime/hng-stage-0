@@ -49,7 +49,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ## Deployment
 The API is deployed at:
 ```
-<your-deployed-url>
+https://productive-olga-stallion-4d01071f.koyeb.app/api
 ```
 
 ---
